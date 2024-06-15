@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jethro Cheruiyot
 
-![Profile views](https://gpvc.arturio.dev/jethcherry)
+
 ![GitHub followers](https://img.shields.io/github/followers/jethcherry?label=Follow&style=social)
 
 ## About Me
@@ -52,4 +52,4 @@ Here are some of my projects:
 ## Contact Me
 
 - [Email](mailto:jethrosumbeiywet@gmail.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312)
