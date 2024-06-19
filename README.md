@@ -1,8 +1,4 @@
 # Hi there 👋, I'm Jethro Cheruiyot
-
-
-![GitHub followers](https://img.shields.io/github/followers/jethcherry?label=Follow&style=social)
-
 ## About Me
 
 - 🔭 I’m currently working on an exciting project!
