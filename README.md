@@ -1,11 +1,10 @@
 # Hi there 👋
 
-## Languages and Tools
+##My Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethcherry&layout=compact)
 
-This project is built using the following languages and tools:
-
+## Languages and Tools
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
