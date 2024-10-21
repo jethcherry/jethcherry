@@ -16,6 +16,8 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+
 
 ## Contact Me
 
