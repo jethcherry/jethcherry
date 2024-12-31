@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Jethro Cheruiyot 👋
 
-Welcome to my GitHub! I'm a passionate Junior Software Developer based in **  Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, and GitHub activity.
+Welcome to my GitHub! I'm a passionate Junior Software Developer based in **Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, and GitHub activity.
 
 ---
 
@@ -26,6 +26,11 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=fff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-F4534E?logo=laravel&logoColor=fff)
+
+### **Databases**:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![MSSQL](https://img.shields.io/badge/-MSSQL-003B57?logo=microsoft-sql-server&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
 
@@ -65,9 +70,7 @@ I’m always open to collaboration, suggestions, or just a good chat! You can re
 
 ## 🎯 **Currently Working On** ⚡️
 
-- Building out new features for my **CitizenConnect360** project.
-- Exploring **machine learning** and **AI integration** into real-world applications.
-- Learning **React** through hands-on projects.
+- Learning **Laravel** through hands-on projects.
 
 ---
 
