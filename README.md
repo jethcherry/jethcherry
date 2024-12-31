@@ -58,6 +58,14 @@ Here are the languages I use the most:
 
 ---
 
+## 🎉 **GitHub Contribution Graph** 🎉
+
+See my commit history and activity!
+
+![GitHub contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=jethcherry&theme=github&hide_border=true)
+
+---
+
 ## 💬 **How to Reach Me** 📬
 
 I’m always open to collaboration, suggestions, or just a good chat! You can reach me here:
