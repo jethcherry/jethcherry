@@ -71,7 +71,7 @@ I’m always open to collaboration, suggestions, or just a good chat! You can re
 
 ## 🎯 **Currently Working On** ⚡️
 
-- Learning **Laravel** through hands-on projects.
+- **Laravel** through hands-on projects.
 
 ---
 
