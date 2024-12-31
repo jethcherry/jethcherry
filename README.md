@@ -26,7 +26,6 @@
 
 # 🔥 GitHub Streak & Contribution Graph
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
-![GitHub contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=jethcherry&theme=github&hide_border=true)
 
 ---
 
