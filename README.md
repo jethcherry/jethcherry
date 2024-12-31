@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Jethro Cheruiyot 👋
+# 🚀 Hi there, I'm Jethro 👋
 
 Welcome to my GitHub! I'm a passionate Junior Software Developer based in **Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, and GitHub activity.
 
