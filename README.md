@@ -74,8 +74,6 @@ I’m always open to collaboration, suggestions, or just a good chat! You can re
 ## 🎯 **Currently Working On** ⚡️
 
 - **Laravel** through hands-on projects.
-- Exploring **cloud computing** solutions and **serverless architectures**.
-- Building personal projects and contributing to open-source repositories.
 
 ---
 
