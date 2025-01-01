@@ -4,6 +4,17 @@ Welcome to my GitHub! I'm a passionate **Junior Software Developer** based in **
 
 ---
 
+---
+
+## 🌍 **Top Languages I've Used** 🗣️
+
+Here are the languages I use the most:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethcherry&layout=compact)
+
+---
+
+
 ## 🛠️ **My Tech Stack & Tools** 💻
 
 I work with a wide variety of programming languages and tools. Here's a snapshot of what I use:
@@ -42,42 +53,6 @@ Here's a quick overview of my contributions and activity on GitHub:
 
 ---
 
-## 🔥 **My GitHub Streak** 🔥
-
-I’m always coding! Here’s my current GitHub streak:
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
-
----
-
-## 🌍 **Top Languages I've Used** 🗣️
-
-Here are the languages I use the most:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethcherry&layout=compact)
-
----
-
-## 🏡 **Why I'm a Perfect Fit for Remote Work** 💻
-
-- 🌍 **Self-Motivated**: As a remote worker, I thrive in an independent environment and take ownership of my projects. I ensure to stay disciplined and meet deadlines.
-  
-- 🕒 **Time Management**: I’m highly organized, with experience balancing multiple tasks. I set clear goals and effectively prioritize tasks to meet deadlines without needing micromanagement.
-
-- 🧑‍💻 **Technical Skills**: My broad tech stack and programming expertise equip me to work on any aspect of a project, whether it's backend development, frontend design, or database management.
-
-- 🌐 **Global Collaboration**: I have experience collaborating with teams from different time zones and countries, ensuring effective communication through tools like **Slack**, **Zoom**, **Trello**, and **GitHub**.
-
-- 💬 **Clear Communication**: I am adept at writing clear documentation, providing regular updates, and participating in virtual meetings to keep everyone on the same page.
-
-- 🛠️ **Tools & Platforms for Remote Work**:
-    - **Version Control**: Git, GitHub, GitLab
-    - **Project Management**: Jira, Trello, Asana
-    - **Collaboration**: Slack, Zoom, Microsoft Teams
-    - **CI/CD**: Jenkins, Travis CI, GitHub Actions
-    - **Cloud Platforms**: AWS, Azure, Google Cloud
-
----
 
 ## 💬 **How to Reach Me** 📬
 
