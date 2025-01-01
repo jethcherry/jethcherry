@@ -1,9 +1,8 @@
-![Hello, I'm Jethro!](https://img.shields.io/badge/Hello,_I'm-Jethro-blue?style=flat&logo=github&logoColor=white)
+![Hello, I'm Jethro!](https://img.shields.io/badge/Hello,_I'm-Jethro-red?style=flat&logo=github&logoColor=white)
 
 Welcome to my GitHub! I'm a passionate **Junior Software Developer** based in **Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, GitHub activity, and why I am a great fit for remote work!
 
 ---
-
 
 ## 🌍 **Top Languages I've Used** 🗣️
 
@@ -12,7 +11,6 @@ Here are the languages I use the most:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethcherry&layout=compact)
 
 ---
-
 
 ## 🛠️ **My Tech Stack & Tools** 💻
 
@@ -43,19 +41,6 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
-
-## 🔥 **My GitHub Streak** 🔥
-
-I’m always coding! Here’s my current GitHub streak:
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
-
----
-![GitHub Activity Chart](https://wakatime.com/share/@jethcherry/8fd7c890-8a6a-4fd8-84ab-bd9e14c520e3.svg)
----
-[![Jethro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jethcherry&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 ## 📈 **My GitHub Stats** 🌟
 
 Here's a quick overview of my contributions and activity on GitHub:
@@ -64,6 +49,17 @@ Here's a quick overview of my contributions and activity on GitHub:
 
 ---
 
+## 🔥 **My GitHub Streak** 🔥
+
+I’m always coding! Here’s my current GitHub streak:
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
+
+---
+
+[![Jethro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jethcherry&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 💬 **How to Reach Me** 📬
 
