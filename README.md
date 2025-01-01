@@ -4,8 +4,6 @@ Welcome to my GitHub! I'm a passionate **Junior Software Developer** based in **
 
 ---
 
----
-
 ## 🌍 **Top Languages I've Used** 🗣️
 
 Here are the languages I use the most:
@@ -45,6 +43,16 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 
 ---
 
+## 🔥 **My GitHub Streak** 🔥
+
+I’m always coding! Here’s my current GitHub streak:
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
+
+---
+[![Jethro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jethcherry&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 ## 📈 **My GitHub Stats** 🌟
 
 Here's a quick overview of my contributions and activity on GitHub:
