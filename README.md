@@ -1,6 +1,6 @@
 ![Hello, I'm Jethro!](https://img.shields.io/badge/Hello,_I'm-Jethro-red?style=flat&logo=github&logoColor=white)
 
-Welcome to my GitHub! I'm a passionate **Junior Software Developer** based in **Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, GitHub activity, and why I am a great fit for remote work!
+Welcome to my GitHub! I'm a passionate **Software Engineer** based in **Nairobi, Embakasi, Kenya** 🇰🇪. I love building web applications and exploring new technologies. Below, you'll find a quick overview of my work, tech stack, GitHub activity, and why I am a great fit for remote work!
 
 ---
 
